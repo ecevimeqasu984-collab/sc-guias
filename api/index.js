@@ -19,7 +19,7 @@ const SUBTITLE           = "Confirme que você é humano para continuar";
 const TURNSTILE_SITE_KEY = "0x4AAAAAADRPgDy2zKH8pAty";
 
 // 🔑 COLE AQUI a Secret Key do Turnstile
-const TURNSTILE_SECRET   = "COLE-AQUI-SUA-SECRET-KEY-DO-TURNSTILE";
+const TURNSTILE_SECRET   = "0x4AAAAAADRPgOL6hr7YTVG23YuFOd3MVO8";
 
 const FALLBACK_URL       = "https://www.google.com";
 const ENTRY_TOKEN        = "online";
